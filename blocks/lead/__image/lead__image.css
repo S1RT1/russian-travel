@@ -1,0 +1,45 @@
+.lead__image {
+    width: 100%;
+}
+
+    /*-----------------------Media 768----------------------*/
+@media screen and (max-width: 1023px) and (min-width: 768px) {
+    
+
+    .lead__image {
+    width: 100%;
+    }
+}
+
+/*-----------------------Media 320----------------------*/
+
+@media screen and (max-width: 424px) and (min-width: 320px) {
+      
+
+    .lead__image {
+    width: 100%;
+    margin-bottom: 2.500vw;
+    }
+}
+
+/*-----------------------Media 425----------------------*/
+
+@media screen and (max-width: 767px) and (min-width: 425px) {
+    
+
+    .lead__image {
+    width: 100%;
+    margin-bottom: 2.500vw;
+    }
+}
+
+/*-----------------------Media 1024----------------------*/
+
+@media screen and (min-width: 1024px) and (max-width: 1279px) {
+    
+
+    .lead__image {
+    width: 100%;
+    }
+}
+

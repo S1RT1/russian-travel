@@ -1,0 +1,62 @@
+.intro__title {
+    font-weight: 900;
+    font-size: 4.219vw;
+    line-height: 4.531vw;
+    margin-bottom: 3.125vh;
+    margin-top: 0;
+}
+
+    /*-----------------------Media 768----------------------*/
+@media screen and (max-width: 1023px) and (min-width: 768px) {
+    
+
+    .intro__title {
+    font-weight: 900;
+    font-size: 7.031vw;
+    line-height: 7.552vw;
+    margin-bottom: 5.208vw;
+    margin-top: 0;
+    }
+}
+
+/*-----------------------Media 320----------------------*/
+
+@media screen and (max-width: 424px) and (min-width: 320px) {
+      
+
+    .intro__title {
+    font-weight: 900;
+    font-size: 10.000vw;
+    line-height: 10.938vw;
+    margin-bottom: 12.500vw;
+    margin-top: 0;
+    }
+}
+
+/*-----------------------Media 425----------------------*/
+
+@media screen and (max-width: 767px) and (min-width: 425px) {
+
+
+    .intro__title {
+    font-weight: 900;
+    font-size: 10.000vw;
+    line-height: 10.938vw;
+    margin-bottom: 12.500vw;
+    margin-top: 0;
+    }
+}
+
+/*-----------------------Media 1024----------------------*/
+
+@media screen and (min-width: 1024px) and (max-width: 1279px) {
+
+
+    .intro__title {
+    font-weight: 900;
+    font-size: 4.219vw;
+    line-height: 4.531vw;
+    margin-bottom: 3.223vw;
+    margin-top: 0;
+    }
+}

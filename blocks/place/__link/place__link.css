@@ -1,0 +1,88 @@
+.place__link {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.406vw;
+    line-height: 1.719vw;
+    color: #FFFFFF;
+    transition: all 1s ease;
+}
+    
+    .place__link:hover {
+    color: #AAAAAA;
+    }
+
+    /*-----------------------Media 768----------------------*/
+@media screen and (max-width: 1023px) and (min-width: 768px) {
+
+
+    .place__link {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 2.344vw;
+    line-height: 2.865vw;
+    color: #FFFFFF;
+    transition: all 1s ease;
+    }
+    
+    .place__link:hover {
+    color: #AAAAAA;
+    }
+}
+
+/*-----------------------Media 320----------------------*/
+
+@media screen and (max-width: 424px) and (min-width: 320px) {
+
+
+    .place__link {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 5.625vw;
+    line-height: 6.875vw;
+    color: #FFFFFF;
+    transition: all 1s ease;
+    }
+    
+    .place__link:hover {
+    color: #AAAAAA;
+    }
+}
+
+/*-----------------------Media 425----------------------*/
+
+@media screen and (max-width: 767px) and (min-width: 425px) {
+
+
+    .place__link {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 5.625vw;
+    line-height: 6.875vw;
+    color: #FFFFFF;
+    transition: all 1s ease;
+    }
+    
+    .place__link:hover {
+    color: #AAAAAA;
+    }
+}
+
+/*-----------------------Media 1024----------------------*/
+
+@media screen and (min-width: 1024px) and (max-width: 1279px) {
+
+
+    .place__link {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.406vw;
+    line-height: 1.719vw;
+    color: #FFFFFF;
+    transition: all 1s ease;
+    }
+    
+    .place__link:hover {
+    color: #AAAAAA;
+    }
+}
+

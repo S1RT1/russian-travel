@@ -1,0 +1,38 @@
+.header__logo {
+    width: 13.750vw;
+}
+
+/*-----------------------Media 768----------------------*/
+@media screen and (max-width: 1023px) and (min-width: 768px) {
+
+    .header__logo {
+        width: 22.917vw;
+    }
+}
+
+/*-----------------------Media 320----------------------*/
+
+@media screen and (max-width: 424px) and (min-width: 320px) {
+
+    .header__logo {
+        width: 44.375vw;
+    }
+}
+
+/*-----------------------Media 425----------------------*/
+
+@media screen and (max-width: 767px) and (min-width: 425px) {
+
+    .header__logo {
+        width: 44.375vw;
+    }
+}
+
+/*-----------------------Media 1024----------------------*/
+
+@media screen and (min-width: 1024px) and (max-width: 1279px) {
+
+    .header__logo {
+        width: 29.74%;
+    }
+}

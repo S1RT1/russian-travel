@@ -1,0 +1,77 @@
+.photo-grid {
+    display: grid;
+    margin: auto;
+    grid-template-columns: repeat(auto-fill, 22.188vw);
+    grid-template-rows: auto;
+    width: calc(100vw - 7.500vw);
+    justify-content: center;
+    gap: 1.250vw;
+    margin-top: 7.187vw;
+}
+
+    /*-----------------------Media 768----------------------*/
+@media screen and (max-width: 1023px) and (min-width: 768px) {
+
+    
+    .photo-grid {
+    display: grid;
+    margin: auto;
+    grid-template-columns: repeat(auto-fill, 45.833vw);
+    grid-template-rows: auto;
+    width: calc(100vw - 6.250vw);
+    justify-content: center;
+    gap: 2.083vw;
+    margin-top: 11.458vw;
+    }
+}
+
+/*-----------------------Media 320----------------------*/
+
+@media screen and (max-width: 424px) and (min-width: 320px) {
+      
+    
+    .photo-grid {
+    display: grid;
+    margin: auto;
+    grid-template-columns: repeat(auto-fill, 90.000vw);
+    grid-template-rows: auto;
+    width: calc(100vw - 10.000vw);
+    justify-content: center;
+    gap: 3.750vw;
+    margin-top: 20.000vw;
+    }
+}
+
+/*-----------------------Media 425----------------------*/
+
+@media screen and (max-width: 767px) and (min-width: 425px) {
+
+    
+    .photo-grid {
+    display: grid;
+    margin: auto;
+    grid-template-columns: repeat(auto-fill, 90.000vw);
+    grid-template-rows: auto;
+    width: calc(100vw - 10.000vw);
+    justify-content: center;
+    gap: 3.750vw;
+    margin-top: 20.000vw;
+    }
+}
+
+/*-----------------------Media 1024----------------------*/
+
+@media screen and (min-width: 1024px) and (max-width: 1279px) {
+
+    
+    .photo-grid {
+    display: grid;
+    margin: auto;
+    grid-template-columns: repeat(auto-fill, 29.297vw);
+    grid-template-rows: auto;
+    width: calc(100vw - 9.375vw);
+    justify-content: center;
+    gap: 1.250vw;
+    margin-top: 8.984vw;
+    }
+}

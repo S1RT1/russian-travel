@@ -1,0 +1,45 @@
+.lead {
+margin-top: 4.375vh;
+}
+
+    /*-----------------------Media 768----------------------*/
+@media screen and (max-width: 1023px) and (min-width: 768px) {
+    
+    
+    .lead {
+    margin-top: 6.250vw;
+    margin-bottom: 11.458vw;
+    }
+}
+
+/*-----------------------Media 320----------------------*/
+
+@media screen and (max-width: 424px) and (min-width: 320px) {
+      
+    
+    .lead {
+    margin-top: 15.000vw;
+    margin-bottom: 20.000vw;
+    }
+}
+
+/*-----------------------Media 425----------------------*/
+
+@media screen and (max-width: 767px) and (min-width: 425px) {
+    
+    
+    .lead {
+    margin-top: 15.000vw;
+    margin-bottom: 20.000vw;
+    }
+}
+
+/*-----------------------Media 1024----------------------*/
+
+@media screen and (min-width: 1024px) and (max-width: 1279px) {
+    
+    
+    .lead {
+    margin-top: 4.688vw;
+    }
+}

@@ -1,0 +1,72 @@
+.lead__subtitle {
+    margin: auto;
+    margin-bottom: 5vh;
+    font-weight: 400;
+    font-size: 2.344vw;
+    line-height: 2.813vw;
+    text-align: center;
+    width: calc(100% - 26.875vw);
+    }
+
+    /*-----------------------Media 768----------------------*/
+@media screen and (max-width: 1023px) and (min-width: 768px) {
+    
+
+    .lead__subtitle {
+    margin: auto;
+    margin-bottom: 7.292vw;
+    font-weight: 400;
+    font-size: 3.906vw;
+    line-height: 4.688vw;
+    text-align: center;
+    width: calc(100% - 16.667vw);
+    }
+}
+
+/*-----------------------Media 320----------------------*/
+
+@media screen and (max-width: 424px) and (min-width: 320px) {
+      
+
+    .lead__subtitle {
+    margin: auto;
+    margin-bottom: 12.500vw;
+    font-weight: 400;
+    font-size: 5.000vw;
+    line-height: 6.250vw;
+    text-align: center;
+    width: calc(100% - 10.000vw);
+    }
+}
+
+/*-----------------------Media 425----------------------*/
+
+@media screen and (max-width: 767px) and (min-width: 425px) {
+    
+
+    .lead__subtitle {
+    margin: auto;
+    margin-bottom: 12.500vw;
+    font-weight: 400;
+    font-size: 5.000vw;
+    line-height: 6.250vw;
+    text-align: center;
+    width: calc(100% - 10.000vw);
+    }
+}
+
+/*-----------------------Media 1024----------------------*/
+
+@media screen and (min-width: 1024px) and (max-width: 1279px) {
+    
+    
+    .lead__subtitle {
+    margin: auto;
+    margin-bottom: 5vh;
+    font-weight: 400;
+    font-size: 2.930vw;
+    line-height: 3.516vw;
+    text-align: center;
+    width: calc(100% - 37.500vw);
+    }
+}

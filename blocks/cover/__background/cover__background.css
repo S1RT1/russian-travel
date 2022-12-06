@@ -1,0 +1,78 @@
+.cover__background {
+    background-color: rgba(0, 0, 0, 0.3);
+    background-blend-mode: multiply;
+    transition: opacity 1s linear;
+}
+
+  .cover__background:hover {
+    opacity: 0.5;
+    transition: opacity 1s linear;
+}
+
+  /*-----------------------Media 768----------------------*/
+@media screen and (max-width: 1023px) and (min-width: 768px) {
+
+
+    .cover__background {
+      background-color: rgba(0, 0, 0, 0.3);
+      background-blend-mode: multiply;
+      transition: opacity 1s linear;
+    }
+
+    .cover__background:hover {
+      opacity: 0.5;
+      transition: opacity 1s linear;
+      }
+
+}
+
+    /*-----------------------Media 320----------------------*/
+
+@media screen and (max-width: 424px) and (min-width: 320px) {
+
+ 
+    .cover__background {
+      background-color: rgba(0, 0, 0, 0.3);
+      background-blend-mode: multiply;
+      transition: opacity 1s linear;
+    }
+
+    .cover__background:hover {
+      opacity: 0.5;
+      transition: opacity 1s linear;
+      }
+}
+
+/*-----------------------Media 425----------------------*/
+
+@media screen and (max-width: 767px) and (min-width: 425px) {
+
+
+    .cover__background {
+    background-color: rgba(0, 0, 0, 0.3);
+    background-blend-mode: multiply;
+    transition: opacity 1s linear;
+    }
+
+    .cover__background:hover {
+    opacity: 0.5;
+    transition: opacity 1s linear;
+    }
+}
+
+/*-----------------------Media 1024----------------------*/
+
+@media screen and (min-width: 1024px) and (max-width: 1279px) {
+
+
+    .cover__background {
+    background-color: rgba(0, 0, 0, 0.3);
+    background-blend-mode: multiply;
+    transition: opacity 1s linear;
+    }
+
+    .cover__background:hover {
+    opacity: 0.5;
+    transition: opacity 1s linear;
+    }
+}

@@ -1,0 +1,68 @@
+.place__url-heading {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 0.938vw;
+    line-height: 0.938vw;
+    color: #AAAAAA;
+}
+
+    /*-----------------------Media 768----------------------*/
+@media screen and (max-width: 1023px) and (min-width: 768px) {
+
+
+    .place__url-heading {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.563vw;
+    line-height: 1.563vw;
+    color: #AAAAAA;
+    margin-bottom: 1.563vw;
+    margin-top: 0;
+    }
+}
+
+/*-----------------------Media 320----------------------*/
+
+@media screen and (max-width: 424px) and (min-width: 320px) {
+
+
+    .place__url-heading {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 3.750vw;
+    line-height: 3.750vw;
+    color: #AAAAAA;
+    margin-bottom: 1.563vw;
+    margin-top: 0;
+    }
+}
+
+/*-----------------------Media 425----------------------*/
+
+@media screen and (max-width: 767px) and (min-width: 425px) {
+
+
+    .place__url-heading {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 3.750vw;
+    line-height: 3.750vw;
+    color: #AAAAAA;
+    margin-bottom: 1.563vw;
+    margin-top: 0;
+    }
+}
+
+/*-----------------------Media 1024----------------------*/
+
+@media screen and (min-width: 1024px) and (max-width: 1279px) {
+
+
+    .place__url-heading {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 0.938vw;
+    line-height: 0.938vw;
+    color: #AAAAAA;
+    }
+}

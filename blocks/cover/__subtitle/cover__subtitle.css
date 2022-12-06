@@ -1,0 +1,81 @@
+.cover__subtitle {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.406vw;
+    line-height: 1.719vw;
+    display: flex;
+    width: calc(100% - 64.375vw);
+    text-align: center;
+  }
+
+  /*-----------------------Media 768----------------------*/
+@media screen and (max-width: 1023px) and (min-width: 768px) {
+
+
+    .cover__subtitle {
+      font-style: normal;
+      font-weight: 400;
+      font-size: 2.344vw;
+      line-height: 2.865vw;
+      display: flex;
+      width: calc(100% - 53.125vw);
+      text-align: center;
+      margin-top: 0;
+      margin-bottom: 0;
+    }
+}
+
+/*-----------------------Media 320----------------------*/
+
+@media screen and (max-width: 424px) and (min-width: 320px) {
+
+
+    .cover__subtitle {
+      font-style: normal;
+      font-weight: 400;
+      font-size: 4.375vw;
+      line-height: 5.000vw;
+      display: flex;
+      width: calc(100% - 10.000vw);
+      text-align: center;
+      margin-top: 0;
+      margin-bottom: 0;
+    }
+}
+
+/*-----------------------Media 425----------------------*/
+
+@media screen and (max-width: 767px) and (min-width: 425px) {
+
+
+    .cover__subtitle {
+      font-style: normal;
+      font-weight: 400;
+      font-size: 4.375vw;
+      line-height: 5.000vw;
+      display: flex;
+      width: calc(100% - 10.000vw);
+      text-align: center;
+      margin-top: 0;
+      margin-bottom: 0;
+    }
+}
+
+/*-----------------------Media 1024----------------------*/
+
+@media screen and (min-width: 1024px) and (max-width: 1279px) {
+
+
+    .cover__subtitle {
+      font-style: normal;
+      font-weight: 400;
+      font-size: 1.758vw;
+      line-height: 2.148vw;
+      display: flex;
+      width: calc(100% - 64.844vw);
+      text-align: center;
+      margin-top: 3.125vw;
+      margin-bottom: 0;
+    }
+}
+
