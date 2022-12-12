@@ -1,6 +1,6 @@
 .lead__title {
     margin: auto;
-    margin-bottom: 2.5vh;
+    margin-bottom: 2.500vw;
     font-weight: 900;
     font-size: 7.500vw;
     line-height: 7.813vw;
@@ -62,11 +62,11 @@
     
     .lead__title {
     margin: auto;
-    margin-bottom: 2.5vh;
+    margin-bottom: 3.125vw;
     font-weight: 900;
     font-size: 7.500vw;
     line-height: 7.813vw;
     text-align: center;
-    width: calc(100% - 20.625vw);
+    width: calc(100% - 20.313vw);
     }
 }

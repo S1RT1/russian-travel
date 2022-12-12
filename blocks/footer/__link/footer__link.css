@@ -6,7 +6,13 @@
       line-height: 1.406vw;
       text-decoration: none;
       color:#FFFFFF;
+      opacity: 1;
+      transition: all 0.7s ease-in-out;
 }
+
+.footer__link:hover {
+  opacity: 0.8;
+  }
 
   /*-----------------------Media 768----------------------*/
 @media screen and (max-width: 1023px) and (min-width: 768px) {

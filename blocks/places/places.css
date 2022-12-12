@@ -2,8 +2,8 @@
     display: grid;
     margin: auto;
     width: calc(100% - 23.125vw);
-    margin-top: 7.187vh;
-    margin-bottom: 7.187vh;
+    margin-top: 7.187vw;
+    margin-bottom: 7.187vw;
 }
 
     /*-----------------------Media 768----------------------*/

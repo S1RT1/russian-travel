@@ -3,6 +3,8 @@
     line-height: 1.094vw;
     font-weight: 400;
     margin: 0;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
 }
 
     /*-----------------------Media 768----------------------*/

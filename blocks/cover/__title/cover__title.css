@@ -5,9 +5,12 @@
     line-height: 5.938vw;
     color: #FFFFFF;
     text-decoration: none;
-    display: flex;
     width: calc(100% - 48.750vw);
     text-align: center;
+    position: absolute;
+    z-index: 50;
+    margin-top: 19.141vw;
+    margin-left: 24.375vw;
   }
 
   /*-----------------------Media 768----------------------*/
@@ -24,7 +27,8 @@
       display: flex;
       width: calc(100% - 27.083vw);
       text-align: center;
-      margin-bottom: 4.167vw;
+      margin-top: 14.974vw;
+      margin-left: 13.542vw;
     }
 }
 
@@ -40,10 +44,10 @@
       line-height: 10.938vw;
       color: #FFFFFF;
       text-decoration: none;
-      display: flex;
-      width: calc(100% - 25.000vw);
+      width: calc(100% - 10.000vw);
       text-align: center;
-      margin-bottom: 5.000vw;
+      margin-top: 10.313vw;
+      margin-left: 5.000vw;
     }
 }
 
@@ -59,10 +63,10 @@
       line-height: 10.938vw;
       color: #FFFFFF;
       text-decoration: none;
-      display: flex;
-      width: calc(100% - 25.000vw);
+      width: calc(100% - 10.000vw);
       text-align: center;
-      margin-bottom: 5.000vw;
+      margin-top: 10.313vw;
+      margin-left: 5.000vw;
     }
 }
 
@@ -81,6 +85,8 @@
       display: flex;
       width: calc(100% - 45.313vw);
       text-align: center;
+      margin-top: 19.043vw;
+      margin-left: 22.656vw;
     }
 }
 

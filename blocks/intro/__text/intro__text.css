@@ -1,9 +1,9 @@
 .intro__text {
     font-weight: 400;
     font-size: 1.250vw;
-    line-height: 2.194vw;
+    line-height: 2.037vw;
     margin-top: 0;
-    margin-bottom: 2.578vh;
+    margin-bottom: 2.578vw;
 }
 
     /*-----------------------Media 768----------------------*/
@@ -54,8 +54,8 @@
 
     .intro__text {
     font-weight: 400;
-    font-size: 1.250vw;
-    line-height: 2.194vw;
+    font-size: 1.563vw;
+    line-height: 2.547vw;
     margin-top: 0;
     margin-bottom: 3.223vw;
     }

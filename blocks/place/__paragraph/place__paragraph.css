@@ -2,9 +2,10 @@
     font-style: normal;
     font-weight: 400;
     font-size: 1.406vw;
-    line-height: 163%;
+    line-height: 2.292vw;
     margin-top: 0;
     margin-left: 3.125vw;
+    margin-bottom: 2.031vw;
 }
 
     /*-----------------------Media 768----------------------*/
@@ -77,10 +78,10 @@
     font-style: normal;
     font-weight: 400;
     font-size: 1.758vw;
-    line-height: 163%;
+    line-height: 2.865vw;
     margin-top: 0;
     margin-left: 3.125vw;
-    margin-bottom: 0;
+    margin-bottom: 2.637vw;
     }
 }
 
