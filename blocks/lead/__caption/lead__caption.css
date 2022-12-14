@@ -54,10 +54,11 @@
     
 
     .lead__caption {
-    font-size: 0.781vw;
-    line-height: 1.094vw;
+    font-size: 0.977vw;
+    line-height: 1.367vw;
     font-weight: 400;
     margin: 0;
+    margin-top: 0.781vw;
     }
 }
 

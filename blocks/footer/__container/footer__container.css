@@ -1,6 +1,7 @@
+
 .footer__container {
     display: grid;
-    width: calc(100vw - 7.500vw);
+    width: calc(100% - 7.500vw);
     margin: auto;
     grid-template-columns: 50% 50%;
     margin-bottom: 1.875vw;

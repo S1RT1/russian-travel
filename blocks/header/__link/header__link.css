@@ -9,17 +9,12 @@
     transition: all 0.7s ease-in-out;
     }
 
-    .header__link:active {
-    text-decoration: underline;
-    }
-
     .header__link:hover {
     opacity: 0.8;
     }
 
     .header__link:not(:last-child) {
     padding-right: 1.406vw;
-    text-decoration-line: underline;
     }
 
     /*-----------------------Media 768----------------------*/

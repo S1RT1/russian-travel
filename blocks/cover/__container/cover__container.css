@@ -1,0 +1,66 @@
+        .cover__container {
+            display: grid;
+            position: absolute;
+            min-height: 57.813vw;
+            width: 100%;
+            align-content: center;
+            gap: 2.500vw;
+            margin: auto;
+    }
+
+
+    /*-----------------------Media 768----------------------*/
+    @media screen and (max-width: 1023px) and (min-width: 768px) {
+
+        .cover__container {
+            display: grid;
+            position: absolute;
+            height: 62.500vw;
+            width: 100.000vw;
+            align-content: center;
+            gap: 4.167vw;
+        }
+    }
+
+
+    /*-----------------------Media 320----------------------*/
+
+@media screen and (max-width: 424px) and (min-width: 320px) {
+
+    .cover__container {
+        display: grid;
+        position: absolute;
+        height: 62.500vw;
+        width: 100.000vw;
+        align-content: center;
+        gap: 5.000vw;
+    }
+}
+
+/*-----------------------Media 425----------------------*/
+
+@media screen and (max-width: 767px) and (min-width: 425px) {
+
+    .cover__container {
+        display: grid;
+        position: absolute;
+        height: 62.500vw;
+        width: 100.000vw;
+        align-content: center;
+        gap: 5.000vw;
+    }
+}
+
+/*-----------------------Media 1024----------------------*/
+
+@media screen and (min-width: 1024px) and (max-width: 1279px) {
+
+    .cover__container {
+        display: grid;
+        position: absolute;
+        height: 62.500vw;
+        width: 100.000vw;
+        align-content: center;
+        gap: 3.125vw;
+    }
+}

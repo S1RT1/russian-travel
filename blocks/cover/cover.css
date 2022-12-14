@@ -6,6 +6,7 @@
     margin-bottom: 7.187vw;
     position: relative;
     background-color: #2A2C2F;
+    display: grid;
 }
 
     /*-----------------------Media 768----------------------*/
@@ -29,6 +30,7 @@
     width: 100%;
     min-height: 62.500vw;
     margin-bottom: 20.000vw;
+
  }
 }
 
