@@ -1,8 +1,8 @@
 .place__link {
     font-style: normal;
     font-weight: 400;
-    font-size: 1.406vw;
-    line-height: 1.719vw;
+    font-size: 18px;
+    line-height: 22px;
     color: #FFFFFF;
     transition: all 1s ease;
 }

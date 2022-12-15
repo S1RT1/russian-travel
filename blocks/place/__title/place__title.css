@@ -2,11 +2,11 @@
     color: #FFFFFF;
     font-style: normal;
     font-weight: 900;
-    font-size: 5.625vw;
-    line-height: 5.938vw;
+    font-size: 72px;
+    line-height: 76px;
     display: flex;
     margin-top: 0;
-    margin-bottom: 3.750vw;
+    margin-bottom: 48px;
     align-items: flex-end;
     width: 95%;
 }

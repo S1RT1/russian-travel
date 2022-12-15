@@ -1,8 +1,8 @@
 .header {
     display: grid;
-    width: calc(100% - 7.500vw);
+    width: 1184px;
     margin: auto;
-    margin-top: 2.188vw;
+    margin-top: 28px;
     grid-template-columns: 50% 50%;
     }
 

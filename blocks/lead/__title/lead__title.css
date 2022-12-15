@@ -1,11 +1,13 @@
+
+
 .lead__title {
     margin: auto;
-    margin-bottom: 2.500vw;
+    margin-bottom: 32px;
     font-weight: 900;
-    font-size: 7.500vw;
-    line-height: 7.813vw;
+    font-size: 96px;
+    line-height: 100px;
     text-align: center;
-    width: calc(100% - 20.625vw);
+    width: 720px;
     }
 
     /*-----------------------Media 768----------------------*/

@@ -1,9 +1,9 @@
 .places {
     display: grid;
     margin: auto;
-    width: calc(100% - 23.125vw);
-    margin-top: 7.187vw;
-    margin-bottom: 7.187vw;
+    width: 984px;
+    margin-top: 198px;
+    margin-bottom: 92px;
 }
 
     /*-----------------------Media 768----------------------*/

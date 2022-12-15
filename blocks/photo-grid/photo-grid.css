@@ -1,12 +1,12 @@
 .photo-grid {
     display: grid;
     margin: auto;
-    grid-template-columns: repeat(auto-fill, 22.188vw);
+    grid-template-columns: repeat(auto-fill, 284px);
     grid-template-rows: auto;
-    width: calc(100vw - 7.500vw);
+    width: 1184px;
     justify-content: center;
-    gap: 1.250vw;
-    margin-top: 7.187vw;
+    gap: 16px;
+    margin-top: 92px;
 }
 
     /*-----------------------Media 768----------------------*/

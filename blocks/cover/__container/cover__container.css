@@ -1,10 +1,10 @@
         .cover__container {
             display: grid;
             position: absolute;
-            min-height: 57.813vw;
-            width: 100%;
+            min-height: 740px;
+            width: 1184px;
             align-content: center;
-            gap: 2.500vw;
+            gap: 32px;
             margin: auto;
     }
 

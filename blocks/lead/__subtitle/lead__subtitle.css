@@ -1,11 +1,11 @@
 .lead__subtitle {
     margin: auto;
-    margin-bottom: 5.000vw;
+    margin-bottom: 64px;
     font-weight: 400;
-    font-size: 2.344vw;
-    line-height: 2.813vw;
+    font-size: 30px;
+    line-height: 36px;
     text-align: center;
-    width: calc(100% - 26.875vw);
+    width: 640px;
     }
 
     /*-----------------------Media 768----------------------*/

@@ -1,12 +1,12 @@
 .place {
     display: grid;
-    grid-template-columns: 35.938vw 40.938vw;
+    grid-template-columns: 460px 524px;
     margin-top: 0;
   }
 
     
 .place:not(:first-child) {
-    margin-top: 6.250vh;
+    margin-top: 80px;
   }
 
   

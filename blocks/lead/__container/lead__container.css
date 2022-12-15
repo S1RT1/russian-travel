@@ -1,6 +1,6 @@
 .lead__container {
     display: grid;
-    width: calc(100% - 23.125vw);
+    width: 984px;
     margin: auto;
 }
 

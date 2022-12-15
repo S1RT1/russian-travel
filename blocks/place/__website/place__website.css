@@ -2,8 +2,8 @@
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
-    margin-bottom: 3.750vw;
-    margin-left: 3.125vw;
+    margin-bottom: 48px;
+    margin-left: 40px;
 }
 
     /*-----------------------Media 768----------------------*/

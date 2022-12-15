@@ -1,9 +1,9 @@
 .cover {
-    width: calc(100% - 7.500vw);
-    min-height: 57.813vw;
+    width: 1184px;
+    min-height: 740px;
     margin: auto;
-    margin-top: 7.187vw;
-    margin-bottom: 7.187vw;
+    margin-top: 0;
+    margin-bottom: 92px;
     position: relative;
     background-color: #2A2C2F;
     display: grid;

@@ -1,8 +1,8 @@
 .intro__container {
     display: grid;
-    width: calc(100% - 46.094vw);
-    margin-left: 11.563vw;
-    margin-top: 7.187vw;
+    width: 690px;
+    margin-left: 148px;
+    margin-top: 92px;
 }
 
     /*-----------------------Media 768----------------------*/
