@@ -1,8 +1,8 @@
 .intro__container {
     display: grid;
     width: 690px;
-    margin-left: 148px;
     margin-top: 92px;
+
 }
 
     /*-----------------------Media 768----------------------*/
@@ -11,7 +11,7 @@
     
     .intro__container {
     display: grid;
-    width: calc(100% - 6.250vw);
+    width: 100%;
     margin: auto;
     }
 }
@@ -23,7 +23,7 @@
     
     .intro__container {
     display: grid;
-    width: calc(100% - 10.000vw);
+    width: 100%;
     margin: auto;
     }
 }
@@ -35,7 +35,7 @@
     
     .intro__container {
     display: grid;
-    width: calc(100% - 10.000vw);
+    width: 100%;
     margin: auto;
     }
 }
@@ -47,8 +47,8 @@
     
     .intro__container {
     display: grid;
-    width: calc(100% - 32.617vw);
-    margin-left: 4.688vw;
+    width: 100%;
+    margin-left: 0;
     margin-top: 8.984vw;
     }
 }

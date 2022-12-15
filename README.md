@@ -11,6 +11,6 @@ Flex
 2) Хоть какой-нибудь компьютер :)
 
 ### Ссылка: 
-https://github.com/S1RT1/russian-travel.git 
+https://s1rt1.github.io/russian-travel/
 
 

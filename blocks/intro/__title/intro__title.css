@@ -4,6 +4,7 @@
     line-height: 58px;
     margin-bottom: 40px;
     margin-top: 0;
+
 }
 
     /*-----------------------Media 768----------------------*/
@@ -16,6 +17,7 @@
     line-height: 7.552vw;
     margin-bottom: 5.208vw;
     margin-top: 0;
+    width: 93.750vw;
     }
 }
 
@@ -25,11 +27,13 @@
       
 
     .intro__title {
+    font-style:  normal;
     font-weight: 900;
     font-size: 10.000vw;
     line-height: 10.938vw;
     margin-bottom: 12.500vw;
     margin-top: 0;
+    width: 70vw;
     }
 }
 
